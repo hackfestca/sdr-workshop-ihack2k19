@@ -15,5 +15,5 @@ Les instructions relatives à cet atelier sont disponible publiquement ici: [htt
 ### Déroulement de l'atelier
 1. [**Préparation:**](exercices/installation.md) Installation d'un logiciel de SDR
 2. [**Premier exercice:**](exercices/FM.md) Écoute d'une station FM
-3. [**Troisième exercice:**](exercices/ADS-B.md) Décodage de signaux ADS-B (Avions)
-4. [**Deuxième exercice:**](exercices/POCSAG.md) Décodage de signaux FLEX (Pagette)
+3. [**Deuxième exercice:**](exercices/ADS-B.md) Décodage de signaux ADS-B (Avions)
+4. [**Troisième exercice:**](exercices/POCSAG.md) Décodage de signaux FLEX (Pagette)
