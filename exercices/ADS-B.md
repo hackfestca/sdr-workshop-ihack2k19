@@ -78,6 +78,13 @@ Si tout va bien, vous devriez pouvoir naviguer sur `http://localhost/dump1090/gm
 
 ![SDR](../img/img7.png)
 
+## Windows (_non testé_)
+Sur Windows, il existe plusieurs logiciels d'écoute ADS-B. Assurez-vous d'avoir bien installé les pilotes RTLSDR; Ensuite, un exemple qui semble populaire est [RTL1090](https://rtl1090.com/).
+
+![SDR](../img/img8.jpg)
+
+Bonne expérience!
+
 ## Sommaire
 1. [**Préparation:**](exercices/installation.md) Installation d'un logiciel de SDR
 2. [**Premier exercice:**](exercices/FM.md) Écoute d'une station FM
