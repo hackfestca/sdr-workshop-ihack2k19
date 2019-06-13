@@ -100,7 +100,8 @@ Vous devriez maintenant être en mesure d'exécuter SDRSharp directement!
 
 ![GQRX](../img/img4.png)
 
-## Exercices
-1. [**Premier exercice:**](exercices/FM.md) Écoute d'une station FM
-2. [**Troisième exercice:**](exercices/ADS-B.md) Décodage de signaux ADS-B (Avions)
-3. [**Deuxième exercice:**](exercices/POCSAG.md) Décodage de signaux FLEX (Pagette)
+## Sommaire
+1. [**Préparation:**](exercices/installation.md) Installation d'un logiciel de SDR
+2. [**Premier exercice:**](exercices/FM.md) Écoute d'une station FM
+3. [**Troisième exercice:**](exercices/ADS-B.md) Décodage de signaux ADS-B (Avions)
+4. [**Deuxième exercice:**](exercices/POCSAG.md) Décodage de signaux FLEX (Pagette)
