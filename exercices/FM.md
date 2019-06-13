@@ -19,7 +19,7 @@ Voilà! Vous êtes maintenant en mesure d'écouter la radio "offline" comme dans
 Vous devriez aussi aller voir dans le menu **View > RDS**. Il est ainsi possible de décoder les signaux RDS (Radio Data System). Habituellement, ce signal est généralement utilisé par les stations pour diffuser leur nom et le titre des pièces.
 
 ## Sommaire
-1. [**Préparation:**](exercices/installation.md) Installation d'un logiciel de SDR
-2. [**Premier exercice:**](exercices/FM.md) Écoute d'une station FM
-3. [**Troisième exercice:**](exercices/ADS-B.md) Décodage de signaux ADS-B (Avions)
-4. [**Deuxième exercice:**](exercices/POCSAG.md) Décodage de signaux FLEX (Pagette)
+1. [**Préparation:**](installation.md) Installation d'un logiciel de SDR
+2. [**Premier exercice:**](FM.md) Écoute d'une station FM
+3. [**Deuxième exercice:**](ADS-B.md) Décodage de signaux ADS-B (Avions)
+4. [**Troisième exercice:**](POCSAG.md) Décodage de signaux FLEX (Pagette)

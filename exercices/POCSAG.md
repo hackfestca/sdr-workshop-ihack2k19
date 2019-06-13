@@ -20,8 +20,8 @@ Il faudra aussi installer deux autres packages afin de mener à bien notre expé
 Finalement activez le streaming du son en UDP dans GQRX en appuyant sur le bouton `UDP` en bas à droite et dans un nouveau terminal, exécutez la commande suivante:
 
 ```
-nc -l -u -p 7355 | 
-sox -r 48000 -t raw -b 16 -c 1 -e signed-integer /dev/stdin -r 22050 -t raw -b 16 -c 1 -e signed-integer - | 
+nc -l -u -p 7355 |
+sox -r 48000 -t raw -b 16 -c 1 -e signed-integer /dev/stdin -r 22050 -t raw -b 16 -c 1 -e signed-integer - |
 multimon-ng -t raw -c -a POCSAG512 -a POCSAG1200 -a POCSAG2400 -a FLEX -a SCOPE -f alpha /dev/stdin
 ```
 
@@ -47,7 +47,7 @@ Un tutoriel détaillé est disponible sur [cette page](https://www.rtl-sdr.com/r
 Bonne expérience!
 
 ## Sommaire
-1. [**Préparation:**](exercices/installation.md) Installation d'un logiciel de SDR
-2. [**Premier exercice:**](exercices/FM.md) Écoute d'une station FM
-3. [**Deuxième exercice:**](exercices/ADS-B.md) Décodage de signaux ADS-B (Avions)
-4. [**Troisième exercice:**](exercices/POCSAG.md) Décodage de signaux FLEX (Pagette)
+1. [**Préparation:**](installation.md) Installation d'un logiciel de SDR
+2. [**Premier exercice:**](FM.md) Écoute d'une station FM
+3. [**Deuxième exercice:**](ADS-B.md) Décodage de signaux ADS-B (Avions)
+4. [**Troisième exercice:**](POCSAG.md) Décodage de signaux FLEX (Pagette)
