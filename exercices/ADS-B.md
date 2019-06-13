@@ -86,7 +86,7 @@ Sur Windows, il existe plusieurs logiciels d'écoute ADS-B. Assurez-vous d'avoir
 Bonne expérience!
 
 ## Sommaire
-1. [**Préparation:**](exercices/installation.md) Installation d'un logiciel de SDR
-2. [**Premier exercice:**](exercices/FM.md) Écoute d'une station FM
-3. [**Deuxième exercice:**](exercices/ADS-B.md) Décodage de signaux ADS-B (Avions)
-4. [**Troisième exercice:**](exercices/POCSAG.md) Décodage de signaux FLEX (Pagette)
+1. [**Préparation:**](installation.md) Installation d'un logiciel de SDR
+2. [**Premier exercice:**](FM.md) Écoute d'une station FM
+3. [**Deuxième exercice:**](ADS-B.md) Décodage de signaux ADS-B (Avions)
+4. [**Troisième exercice:**](POCSAG.md) Décodage de signaux FLEX (Pagette)

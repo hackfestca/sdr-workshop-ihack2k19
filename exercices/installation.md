@@ -42,7 +42,7 @@ Found 1 device(s):
 
 Using device 0: Generic RTL2832U OEM
 Found Rafael Micro R820T tuner
-Supported gain values (29): 0.0 0.9 1.4 2.7 3.7 7.7 8.7 12.5 14.4 15.7 16.6 19.7 20.7 22.9 25.4 28.0 29.7 32.8 33.8 36.4 37.2 38.6 40.2 42.1 43.4 43.9 44.5 48.0 49.6 
+Supported gain values (29): 0.0 0.9 1.4 2.7 3.7 7.7 8.7 12.5 14.4 15.7 16.6 19.7 20.7 22.9 25.4 28.0 29.7 32.8 33.8 36.4 37.2 38.6 40.2 42.1 43.4 43.9 44.5 48.0 49.6
 [R82XX] PLL not locked!
 Sampling at 2048000 S/s.
 
@@ -70,7 +70,7 @@ Et... voilà:
 
 ## OSX
 
-Sur OSX, il n'y a pas besoin d'installer de pilotes spéciaux. Il existe aussi un `brew cask` directement compatible avec le plus récent OSX. 
+Sur OSX, il n'y a pas besoin d'installer de pilotes spéciaux. Il existe aussi un `brew cask` directement compatible avec le plus récent OSX.
 
 Premièrement, Il vous faudra installer [Homebrew](https://brew.sh/), un _package manager_ open source:
 
@@ -101,7 +101,7 @@ Vous devriez maintenant être en mesure d'exécuter SDRSharp directement!
 ![GQRX](../img/img4.png)
 
 ## Sommaire
-1. [**Préparation:**](exercices/installation.md) Installation d'un logiciel de SDR
-2. [**Premier exercice:**](exercices/FM.md) Écoute d'une station FM
-3. [**Troisième exercice:**](exercices/ADS-B.md) Décodage de signaux ADS-B (Avions)
-4. [**Deuxième exercice:**](exercices/POCSAG.md) Décodage de signaux FLEX (Pagette)
+1. [**Préparation:**](installation.md) Installation d'un logiciel de SDR
+2. [**Premier exercice:**](FM.md) Écoute d'une station FM
+3. [**Deuxième exercice:**](ADS-B.md) Décodage de signaux ADS-B (Avions)
+4. [**Troisième exercice:**](POCSAG.md) Décodage de signaux FLEX (Pagette)
